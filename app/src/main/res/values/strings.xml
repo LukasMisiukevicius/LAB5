@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Exchange Live</string>
+    <string name="ECB_URL">https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml</string>
+    <string name="get_rates">Get Rates</string>
+    <string name="select_currency">Select currency:</string>
+    <string name="change_curr">Enter amount to change</string>
+    <string name="get_currencies">Get Currencies</string>
+</resources>
